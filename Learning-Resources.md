@@ -200,6 +200,9 @@
   * [HTML Color Codes by Dixon & Moe](http://htmlcolorcodes.com/)  
     Basic color theory principles, color charts, a list of recognized named HTML Colors, as well as
     tutorials for leveraging color in HTML/CSS/Sass.
+  * [Sass Language](http://sass-lang.com/)  
+    Learn how to install and use Sass, a CSS extension language.   
+
 
 ### Databases/SQL
 * [Learn SQL by Codecademy](https://www.codecademy.com/en/courses/learn-sql/)
